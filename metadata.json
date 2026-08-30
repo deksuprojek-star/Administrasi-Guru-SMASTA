@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Guru SMA Negeri 1 Tabanan",
+  "description": "Aplikasi Sistem Administrasi Guru SMA Negeri 1 Tabanan berbasis Google Apps Script, Google Sheets, dan Google Drive untuk pengelolaan jadwal, absensi, jurnal PBM, penilaian, bimbingan, konfigurasi KOP sekolah, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
